@@ -13,3 +13,13 @@ body {
   margin-top: 50px;
   width: 370px
 }
+
+@media (max-width: 770px) {
+  .contianer {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
+}

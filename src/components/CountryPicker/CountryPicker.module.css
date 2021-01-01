@@ -2,3 +2,9 @@
   margin-bottom: 30px !important;
   width: 30%;
 }
+
+@media (max-width: 770px) {
+  .container {
+    width: 100%;
+  }
+}
