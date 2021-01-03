@@ -6,7 +6,7 @@ The code is modeled very closely after the tutorial (which I used as a guide). I
 
 ## Live Demo
 
-You can see a live demo of the site on https://react-covid19-cases-tracker.herokuapp.com/.
+You can see a live demo of the site on https://react-covid19-cases-tracker.netlify.app/.
 
 ## Tutorial
 
@@ -28,8 +28,8 @@ B.) For a daily breakdown of data in the USA, instead we use [Covidtracking.com 
 
 2. Run `npm start` to run the webpage locally.
 
-## Deploying the internet
+## Deploying to Netlify
 
-To deploy the demo, I used [Heroku](https://www.heroku.com/).
+To host a version of this project on the web, you can simply use [Netlify](https://app.netlify.com/).
 
-You can simply link your GitHub account to the fork of the repro, and deploy from there.
+Sign up for an account (such as linking your Github) and then follow their instructions to deploy
